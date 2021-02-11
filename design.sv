@@ -1,4 +1,3 @@
-// Code your design here
 `timescale 1ns / 1ps
 module fifo(
   input[7:0] data_in,
