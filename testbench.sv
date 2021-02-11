@@ -1,5 +1,3 @@
-// Code your testbench here
-// or browse Examples
 `timescale 1ns / 1ps
 module tb;
   reg[7:0] ip;
